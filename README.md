@@ -13,5 +13,5 @@ Years ago, when I only had access to internet at the university, I used [wwwoffl
 
 ## Links
 
-https://github.com/inaz2/proxy2/blob/master/proxy2.py#L93
-https://parsiya.net/blog/2016-07-28-thick-client-proxying-part-6-how-https-proxies-work/
+* https://github.com/inaz2/proxy2/blob/master/proxy2.py#L93
+* https://parsiya.net/blog/2016-07-28-thick-client-proxying-part-6-how-https-proxies-work/
